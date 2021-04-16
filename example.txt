@@ -1,0 +1,1 @@
+This is example text to be used in the Counting Characters Studio.

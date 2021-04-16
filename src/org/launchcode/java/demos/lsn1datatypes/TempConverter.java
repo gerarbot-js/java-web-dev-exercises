@@ -1,6 +1,6 @@
 package org.launchcode.java.demos.lsn1datatypes;
 
-import java.util.Scanner;
+import java.util.Scanner; //without this code, we must always use "java.util.Scanner" instead of just Scanner
 
 public class TempConverter {
     public static void main(String[] args) {
